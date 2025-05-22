@@ -36,29 +36,30 @@ The system operates through a `ManagerAgent` that orchestrates various custom-bu
 
 ## Project Structure
 ai-job-application-manager/
-├── .env                  # For API keys and configuration (create this)
-├── agents/               # Contains agent definitions (e.g., ManagerAgent)
-│   ├── init.py
+├── .env
+├── agents/
+│   ├── __init__.py
 │   └── manager_agent.py
-├── data/                 # For storing resume, sample JDs, etc.
-│   └── abhay_padmanabhan.txt
+├── data/
+│   ├── abhay_padmanabhan.txt
 │   └── sample_jd.txt
-├── output_documents/     # For saving generated cover letters, suggestions (created by agent)
-├── tools/                # Contains individual tool scripts
-│   ├── init.py
+├── output_documents/
+│   └── (files like cover_letter_innovatech.txt will be created here by the agent)
+├── tools/
+│   ├── __init__.py
+│   ├── compatibility_analyzer_tool.py
+│   ├── cover_letter_tool.py
 │   ├── file_tools.py
 │   ├── jd_input_tool.py
 │   ├── notion_tools.py
 │   ├── resume_parser_tool.py
-│   ├── compatibility_analyzer_tool.py
-│   ├── cover_letter_tool.py
+│   ├── resume_tuner_tool.py
 │   └── web_scraping_tools.py
-│   └── resume_tuner_tool.py
-├── workflows/            # Contains main workflow orchestration scripts
-│   ├── init.py
+├── workflows/
+│   ├── __init__.py
 │   └── apply_and_log.py
-├── test_jobs.html        # Sample HTML for testing web scraper (created by web_scraping_tools.py)
-└── requirements.txt      # Python dependencies
+├── test_jobs.html
+└── requirements.txt
 
 ## Setup Instructions
 
