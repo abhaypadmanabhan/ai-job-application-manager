@@ -1,0 +1,1 @@
+Seeking a Senior Python Developer with 5+ years of experience in web frameworks (Django/Flask), API design, and cloud platforms (AWS/Azure). Strong problem-solving skills and experience with Agile methodologies required. Familiarity with Docker and Kubernetes is a plus.

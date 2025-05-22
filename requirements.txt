@@ -1,0 +1,6 @@
+python-dotenv
+smolagents
+litellm
+requests
+beautifulsoup4
+notion-client

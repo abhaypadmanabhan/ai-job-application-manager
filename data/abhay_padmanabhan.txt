@@ -1,0 +1,52 @@
+Abhay Padmanabhan
+apadmanabhan@ucdavis.edu
+ 
++1 628-688-7615
+ 
+San Francisco, CA
+ 
+
+linkedin.com/in/apadmanabhan98
+ 
+PROFILE
+Master’s candidate in Business Analytics with strong foundations in A/B testing, regression, causal inference, and marketing analytics. Led a 4-member practicum team to build automated dashboards and streamline operational workflows at The Best Notary, enhancing visibility and reducing manual effort. Proficient in SQL, Python, and Looker, with experience translating data into actionable insights that support strategic decisions.
+EDUCATION
+University of California, Davis, Masters of Science, Business Analytics
+2025/08
+ | 
+San Francisco, CA
+Coursework: Advanced Statistics, Causal Inference, A/B Testing, Diff in Diff, Randomised Controled Trials, Machine Learning, Big Data Analytics (Spark, Kafka), Marketing Analytics, Analytical Decision Making (Conjoint Analysis, Pricing Optimization), Cloud Computing, Agentic AI
+Amrita School of Engineering, 
+B.tech in Computer Science and Engineering
+2021/04
+ | 
+Coimbatore, India
+Coursework: Principles of Machine Learning, Big Data Analytics, Neural Networks and Deep Learning, Natural Language Processing, Foundations of Data Science, Probability and Random Processes.
+WORK EXPERIENCE
+The Best Notary, Data Scientist & Project Manager (Practicum)
+present
+ | 
+San Francisco, CA
+•Directed a team of 4 in designing a data pipeline that unified internal orders and scraped public notary data, enabling downstream predictive modeling and insight generation.
+•Built real-time dashboards in Looker, automated workflows in Make, and applied EDA and statistical analysis to support model development for law firm-client matching.
+•Explored LLM-based automation by integrating agentic AI frameworks (CrewAI, Smol Agents) to extract insights from legal documents and streamline client onboarding.
+Wipro, Analyst
+2024/08
+ | 
+Pune, India
+•Automated user management for 2,000+ users using PowerShell and Azure AD, reducing manual processes and operational costs by 33%
+•Enhanced security efficiency by 20% via CyberArk deployment, streamlining access management workflows
+•Analyzed security logs to improve threat detection accuracy by 20%, proactively mitigating security risks
+•Developed dashboards for real-time security metrics reporting, improving stakeholder engagement and system transparency
+PROJECTS
+Customer Churn Prediction Model
+•Developed logistic regression and random forest models in Python, achieving 85% accuracy and reducing churn by 20% via proactive strategies
+•Visualized churn insights using Tableau, facilitating strategic business decisions
+Comprehensive Exploratory Data Analysis (EDA) and Business Insights Project
+•Conducted data analysis and EDA using Python (Pandas, Matplotlib, Seaborn) to identify key business trends and deliver actionable insights.
+•Presented data-driven findings to stakeholders, contributing to improved understanding of customer behavior and informing strategic decisions.
+Customer Segmentation and Targeted Marketing Strategy Project
+•Developed customer segmentation analyses using Python (Scikit-learn) to inform the creation of targeted marketing strategies.
+•Leveraged data insights to define customer segments and propose targeted marketing initiatives aimed at improving campaign effectiveness.
+SKILLS AND CERTIFICATIONS
+Analytics & Visualization — Python (Pandas, NumPy, scikit-learn, Matplotlib), R, SQL, Looker, Tableau, Power BI, Advanced Excel, Spark, Kafka, Technical Expertise — Machine Learning, Predictive Modeling, Statistical Analysis, A/B Testing, Feature Engineering, Time-Series Forecasting, Functional Expertise: — Product Analytics, Marketing Analytics, Data-Driven Decision Making, Process Automation, Stakeholder Management, Certifications — Google Certified Data Science

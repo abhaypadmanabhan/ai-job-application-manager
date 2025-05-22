@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Directories for generated output files
+output_documents/
+test_output/
+
+# MCP Server code (treating as external dependencies for now)
+mcp/google-calendar-mcp/
+mcp/notion-mcp-server/
+# You could also just ignore the whole mcp folder if it only contains these:
+# mcp/
